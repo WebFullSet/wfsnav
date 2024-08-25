@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/.git
+/.idea
+/app/markup
+/package-lock.json
+.npmrc
