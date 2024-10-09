@@ -55,7 +55,7 @@ Add script right before closing ``</body>`` tag:
 </script>
 ```
 
-### For more detailed instruction please visit [https://webfullset.com/wfsnav/](https://webfullset.com/wfscnav/)
+### For more detailed instruction please visit [https://webfullset.com/wfsnav/](https://webfullset.com/wfsnav/)
 
 <br>
 
