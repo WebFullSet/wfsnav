@@ -1,10 +1,10 @@
 {
   "name": "@webfullset/wfsnav",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WFSnav plugin - JavaScript navigation scrolling plugin with customizable options and mobile responsiveness.",
   "main": "wfsnav.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
@@ -16,11 +16,18 @@
   "animate",
   "ui",
   "frontend",
+  "navigation",
   "javascript"],
   "author": "WebFullSet (Roman Kharchenko) <infowebfullset@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/webfullset/wfsnav/issues"
   },
-  "homepage": "https://github.com/webfullset/wfsnav#readme"
+  "homepage": "https://github.com/webfullset/wfsnav#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@webfullset/wfsnav": "1.0.1"
+  }
 }

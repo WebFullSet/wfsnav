@@ -49,15 +49,20 @@ Add script right before closing ``</body>`` tag:
 ```html
 <script src="https://your_domain.com/js/wfsnav.js"></script>
 <script>
-    const WebNavGoto = new webFullsetNavGoto({
+    const WebNav = new WFSnav({
         conteiner: '#header'
     })
 </script>
 ```
 
-### For more detailed instruction please visit [https://webfullset.com/wfsnav/](https://webfullset.com/wfscnav/)
+## If the menu is not immediately Sticky
 
+### Then you will need a plugin - <strong>[WFSfixednav](https://webfullset.com/wfsfixednav/)</strong>
+
+---
 <br>
+
+### For more detailed instruction please visit [https://webfullset.com/wfsnav/](https://webfullset.com/wfsnav/)
 
 ---
 
